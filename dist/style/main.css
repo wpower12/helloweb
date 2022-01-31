@@ -1,0 +1,18 @@
+div {
+	font-size: 12px;
+}
+
+.second-div {
+	font-size: 20px;
+}
+
+p {
+	color: red;
+}
+
+#special-item {
+	background-color: grey;
+	width:  10em;  /* em is 'font size units' */
+	border-style: solid;
+	border-color: red;
+}
